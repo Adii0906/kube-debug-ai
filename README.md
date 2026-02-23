@@ -1,4 +1,4 @@
-# K8s Debug Assistant
+# Debug Assistant
 
 Simple Streamlit UI that runs a small LangGraph StateGraph to detect common Kubernetes pod failures from pasted logs.
 
