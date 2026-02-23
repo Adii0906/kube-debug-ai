@@ -51,4 +51,4 @@ Note: The upload controls were removed per workspace preferences — use paste o
 - `graph.py` — graph runner logic
 - `samples.py` — example logs
 
-Enjoy — paste some logs and press Run!
+paste some logs and press Run!
